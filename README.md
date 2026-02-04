@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-Im a Electornic and Communication student<br>works on creating UI/UX FOR WEB PAGES and graphic design<br>uses gen ai like Framer,and Antigravity to create web pages<br>uses Html,js, css python c,c++<br>currently learning open cv and Human computer interaction
+**Im a Electornic and Communication student<br>works on creating UI/UX FOR WEB PAGES and graphic design
+currently learning open cv and Human computer interaction**
 
 
 ## 🌐 Socials:
