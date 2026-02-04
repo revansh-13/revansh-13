@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-**Im a Electornic and Communication student<br>works on creating UI/UX FOR WEB PAGES and graphic design
-currently learning open cv and Human computer interaction**
+**Im a Electornic and Communication student.<br>Intrested in creating UI/UX FOR WEB PAGES and Graphic Design
+Currently learning OpenCV and Human computer interaction**
 
 
 ## 🌐 Socials:
