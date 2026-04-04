@@ -2,7 +2,7 @@
 # 💫 About Me:
 **I'm an Electronics and Communication student.<br> Interested in creating UI/UX FOR WEB PAGES and Graphic Design
 Currently learning OpenCV and Human-Computer Interaction**
-
+img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9yc3V2MHB6a3Zxc21henA2aXRvdTlxZnVwMmFjcDQ5dHY5MXR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/revanshsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revansh-singh-209114330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanshsingh69@gmail.com) 
