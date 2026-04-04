@@ -7,8 +7,8 @@ Currently learning OpenCV and Human-Computer Interaction**
 <tr>
 <td width="60%">
 
-<h1>⚡ VIBE CODER</h1>
-<p>Designing immersive web experiences</p>
+<h1>LIFE SUCKS</h1>
+<p>BLAHABLAHABLAHABLAHA</p>
 
 <!-- Your existing README content goes here -->
 
