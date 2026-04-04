@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## Hi there 👋 I'm Revansh Singh
 # 💫 About Me:
 **I'm an Electronics and Communication student.<br> Interested in creating UI/UX FOR WEB PAGES and Graphic Design
 Currently learning OpenCV and Human-Computer Interaction**
