@@ -1,8 +1,16 @@
+# 👋 Welcome to my digital workshop!
 
-## Hi there 👋 I'm Revansh Singh
-# 💫 About Me:
-**I'm an Electronics and Communication student.<br> Interested in creating UI/UX FOR WEB PAGES and Graphic Design
-Currently learning OpenCV and Human-Computer Interaction**
+I'm an ECE undergrad who refuses to stay in one lane. I love building things that live at the intersection of powerful engineering and stunning aesthetics.
+
+Here’s what I spend my time on:
+
+💻 Web Dev & UI/UX: Crafting clean frontend code paired with intuitive, high-fidelity graphic design.
+
+⚡ ECE Core: Designing and building cool hardware projects from the ground up.
+
+🧠 DSA / LeetCode: Solving complex logic puzzles and keeping my problem-solving sharp.
+
+🛡️ Cybersecurity: Constantly learning how to break, secure, and defend digital systems.**
 <table>
 <tr>
 <td width="60%">
