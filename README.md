@@ -51,7 +51,7 @@ Learning:
 Goal:
   Build products that solve real problems.
 
-Coffee:
+Tea:
   Required ☕
 ```
 
@@ -105,7 +105,7 @@ Coffee:
 # ☕ Developer Mood
 
 ```text
-Coffee          ████████████ 100%
+Tea          ████████████ 100%
 
 Sleep           ██░░░░░░░░░░ 18%
 
